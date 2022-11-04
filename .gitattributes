@@ -32,6 +32,11 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# ML source file
+# Defaulting to Standard ML for now
+*.ml linguist-detectable=true
+*.ml linguist-documentation=false
+*.ml linguist-language=Standard-ML
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -164,7 +169,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Friday, November 4th at 2:59 pm PST)
+# Line count (including blank lines and compiler line): 176
 # End of script
